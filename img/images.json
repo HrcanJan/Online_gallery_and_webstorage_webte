@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "cz.jpg",
+        "title": "Czechia",
+        "description": "Czech Republic"
+    },
+    {
+        "filename": "gr.jpg",
+        "title": "Greece",
+        "description": "the Republic of Greece"
+    },
+    {
+        "filename": "hr.jpg",
+        "title": "Croatia",
+        "description": "Croatian Republic"
+    },
+    {
+        "filename": "mk.jpg",
+        "title": "North Macedonia",
+        "description": "The Republic of North Macedonia"
+    },
+    {
+        "filename": "mne.jpg",
+        "title": "Montenegro",
+        "description": "The Republic of Montenegro"
+    },
+    {
+        "filename": "rs.jpg",
+        "title": "Serbia",
+        "description": "the Republic of Serbia"
+    },
+    {
+        "filename": "sk.jpg",
+        "title": "Slovakia",
+        "description": "Slovak Republic"
+    },
+    {
+        "filename": "sl.jpg",
+        "title": "Slovenia",
+        "description": "The Republic of Slovenia"
+    }
+]
